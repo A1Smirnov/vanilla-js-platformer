@@ -24,6 +24,7 @@ Demonstrates ES modules, basic physics, collision handling, asset loading, and a
 ```bash
 npm install
 npm start
+```
 
 Then open the local server URL (e.g. http://localhost:3000
 ).
