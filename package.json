@@ -1,0 +1,21 @@
+{
+  "name": "platform-game-vanilla-js",
+  "version": "0.1.0",
+  "description": "Simple canvas platformer built with vanilla JS (ES modules), no build step",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "keywords": [
+    "javascript",
+    "canvas",
+    "game",
+    "vanilla-js",
+    "platformer"
+  ],
+  "author": "",
+  "license": "MIT"
+}
